@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ワンダーランド",
+  "base_artist": "Tani Yuuki",
+  "createdAt": "2025-12-22T09:08:54.705835Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "☆ワンダーランド☆",
+      "artist": "中須かすみ (CV.相良茉優)",
+      "has_synced": true,
+      "path": "select/01_☆ワンダーランド☆_中須かすみ_(CV.相良茉優).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wonder Land [ワンダーランド]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/02_Wonder_Land_[ワンダーランド]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スリーピング・ワンダーランド",
+      "artist": "ラフィー",
+      "has_synced": true,
+      "path": "select/03_スリーピング・ワンダーランド_ラフィー.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スリーピング・ワンダーランド",
+      "artist": "ラフィー(CV.長縄まりあ)",
+      "has_synced": true,
+      "path": "select/04_スリーピング・ワンダーランド_ラフィー(CV.長縄まりあ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スリーピング・ワンダーランド(Off Vocal)",
+      "artist": "ラフィー(CV.長縄まりあ)",
+      "has_synced": true,
+      "path": "select/05_スリーピング・ワンダーランド(Off_Vocal)_ラフィー(CV.長縄まりあ).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウィンター・ワンダーランド",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/06_ウィンター・ワンダーランド_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/07_ワンダーランド_majiko.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワンダーランド (Wonderland)",
+      "artist": "majiko (まじ娘)",
+      "has_synced": true,
+      "path": "select/08_ワンダーランド_(Wonderland)_majiko_(まじ娘).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウィンター・ワンダーランド",
+      "artist": "アレクサンダー・オニール",
+      "has_synced": false,
+      "path": "select/09_ウィンター・ワンダーランド_アレクサンダー・オニール.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ウィンター・ワンダーランド",
+      "artist": "ファンク・ブラザース",
+      "has_synced": false,
+      "path": "select/10_ウィンター・ワンダーランド_ファンク・ブラザース.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "EPO",
+      "has_synced": false,
+      "path": "select/11_ワンダーランド_EPO.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ワンダーランド (Instrumental)",
+      "artist": "FLiP",
+      "has_synced": false,
+      "path": "select/12_ワンダーランド_(Instrumental)_FLiP.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "FLiP",
+      "has_synced": false,
+      "path": "select/13_ワンダーランド_FLiP.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スリーピング・ワンダーランド",
+      "artist": "ラフィー",
+      "has_synced": true,
+      "path": "select/14_スリーピング・ワンダーランド_ラフィー.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/15_ワンダーランド_Sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "FLiP",
+      "has_synced": false,
+      "path": "select/16_ワンダーランド_FLiP.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/17_ワンダーランド_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ワンダーランド",
+      "artist": "FLiP",
+      "has_synced": true,
+      "path": "select/18_ワンダーランド_FLiP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワンダーランド",
+      "artist": "Tani Yuuki",
+      "has_synced": false,
+      "path": "select/pl_01_ワンダーランド_Tani_Yuuki.txt"
+    }
+  ]
+}
